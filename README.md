@@ -1,7 +1,5 @@
 # Hi, I'm Alwan Putra Andriansyah 👋
 
-![Header Image](https://github.com/alwanandri2712/alwanandri2712/blob/main/alwanandri2712_alwan_putra_and_2zB5NJrpSwgvAwybQditJIWOE7b.webp)
-
 ## About Me
 I am a technology professional currently holding multiple roles including CEO, CTO, and IT Manager. I have strong expertise in Web Development, Backend Systems, and Cyber Security.
 
