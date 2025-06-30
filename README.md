@@ -18,7 +18,7 @@ I am a technology professional currently holding multiple roles including CEO, C
   - 📞 +62 8953-2712-0214  
 
 - 💬 Feel free to connect via:
-  - Instagram: [@andriansyah.pp](https://instagram.com/andriansyah.pp)
+  - Instagram: [@andriansyah.pp](https://instagram.com/gagituone)
   - Facebook: [Alwan Putra (Bandar Lampung)](https://facebook.com)
 
 ## Skills
